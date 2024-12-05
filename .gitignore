@@ -1,1 +1,10 @@
+# Ignore macOS system files
 .DS_Store
+
+# Ignore all data folders
+data/
+
+# Ignore other temporary or unnecessary files
+*.log
+*.tmp
+*.pyc
