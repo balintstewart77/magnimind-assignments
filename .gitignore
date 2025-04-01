@@ -2,7 +2,8 @@
 .DS_Store
 
 # Ignore all data folders
-data/
+**/data/
+**/Data/
 
 # Ignore other temporary or unnecessary files
 *.log
